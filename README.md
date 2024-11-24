@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me Javascript
+- 📫 How to reach me limamoulayeka7@gmail.com
 
 <!---
 limamoulayeka/limamoulayeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
